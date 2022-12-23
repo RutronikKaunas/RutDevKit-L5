@@ -1,7 +1,7 @@
 # RutDevKit-L5
 Rutronik Development Kit STM32L5
 
-<img src="Photos/rutdevkit.jpg" style="zoom:80%;" />
+<img src="Photos/rutdevkit.JPG" style="zoom:80%;" />
 
 **With the RUTDevKit-STM32L5 created by Rutronik, hardware and firmware developers get a "one-stop" platform solution for their own  development. The Kit only uses products from Rutronik's portfolio.**
 
