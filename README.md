@@ -1,5 +1,5 @@
-# RutDevKit-L5
-Rutronik Development Kit STM32L5
+# RutDevKit-L5 [ RDK1 ]
+The very first Rutronik Development Kit RutDevKit-STM32L5 also known as RDK1.
 
 <img src="Photos/rutdevkit.JPG" style="zoom:80%;" />
 
