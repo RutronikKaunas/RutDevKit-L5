@@ -33,6 +33,4 @@ The embedded ST-LINK V2  debugger/programmer as well as the ArduinoTM expansion 
 
 - 4-Layer-Design
 
-  https://www.rutronik.com/development-stories/rutdevkit-stm32l5/
-
   
